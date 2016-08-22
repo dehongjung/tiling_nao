@@ -10,4 +10,4 @@ In this work, the [NAO](https://www.ald.softbankrobotics.com/en/cool-robots/nao)
 * Conference paper: [Jung, De Hong, Jaeheung Park, and Mathew Schwartz. "Towards on-site autonomous robotic floor tiling of mosaics." Control, Automation and Systems (ICCAS), 2014 14th International Conference on. IEEE, 2014.](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6987959&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6971252%2F6987542%2F06987959.pdf)
 
 ## Awards
-* Best Presentation Awards: [Jung, De Hong, Jaeheung Park, and Mathew Schwartz. "Towards on-site autonomous robotic floor tiling of mosaics." Control, Automation and Systems (ICCAS), 2014 14th International Conference on. IEEE, 2014.]
+* Best Presentation Award: [Jung, De Hong, Jaeheung Park, and Mathew Schwartz. "Towards on-site autonomous robotic floor tiling of mosaics." Control, Automation and Systems (ICCAS), 2014 14th International Conference on. IEEE, 2014.]
